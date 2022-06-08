@@ -4,7 +4,7 @@
 
 ### Links
 
-- Live Site URL: [Click Here](https://sagar-aswar.github.io/Testimonial-Section-Challenge-FrontEnd_Mentor/)
+- Live Site URL: [Click Here](https://sagar-aswar.github.io/Space-Landing-Page/)
 
 ## Author
 
